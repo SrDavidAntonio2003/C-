@@ -15,7 +15,7 @@ namespace Eje1sel
                 if (num < 0)
                 Console.WriteLine("Es negativo...");
             else
-                Console.WriteLine("Es cero...");
+                Console.WriteLine("Es cero o es 1...");
 
             Console.ReadKey();
         }
